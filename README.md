@@ -44,3 +44,13 @@ The default username and password is  **admin**
 ** Local das Bases de Dados **
 
 - AppData\Roaming\POS\server\databases
+
+** Gerar Executaveis **
+
+-> npm install electron-packager -g
+-> electron-packager ./ levePDV --platform=win32 --arch=x64 --asar=true --overwrite
+
+** Proteger Código de Fonte **
+
+- npm install -g bytenode
+- npm install --save bytenode

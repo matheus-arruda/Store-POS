@@ -8,6 +8,7 @@ const {app, BrowserWindow, ipcMain} = require('electron');
 const path = require('path')
 
 const contextMenu = require('electron-context-menu');
+const bytenode = require('bytenode');
 
 let mainWindow
 
