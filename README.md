@@ -40,3 +40,7 @@ The default username and password is  **admin**
 ![Permissions](https://github.com/tngoman/Store-POS/blob/master/screenshots/permissions.jpg)
 
 ![Users](https://github.com/tngoman/Store-POS/blob/master/screenshots/users.jpg)
+
+** Local das Bases de Dados **
+
+- AppData\Roaming\POS\server\databases
